@@ -3373,7 +3373,7 @@
   "{n} (applies to descendants)": "",
   "{n} RPM": "",
   "{n} from {dataset}": "",
-  "{n} more": "",
+  "{n} more": "{n} mais",
   "{n}% Uploaded": "",
   "{serviceName} service failed to start.": "",
   "{serviceName} service failed to stop.": "",
